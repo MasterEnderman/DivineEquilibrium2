@@ -1,5 +1,7 @@
 .curseclient
+*.code-workspace
 minecraftinstance.json
 
+.vsc/
 mods/
 profileImage/
